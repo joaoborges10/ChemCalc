@@ -42,6 +42,7 @@ import { calculateStoichiometry } from './logic/stoichiometry';
 import { ChemistryEngine, Reaction, Molecule } from './logic/ChemistryEngine';
 import { PeriodicTable } from './components/PeriodicTable';
 import { calculateMolarity, calculateMassForMolarity, calculateDilution } from './logic/solutions';
+import { ChemistryEngine } from './logic/ChemistryEngine';
 
 // --- Types ---
 interface ReactantInput {
