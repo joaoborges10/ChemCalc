@@ -27,4 +27,4 @@ Transformar a lógica complexa da estequiometria em algoritmos eficientes, aplic
 
 ---
 **Autor:** João  
-*Estudante do Instituto Federal.*
+*Estudante do Instituto Federal de São Paulo.*
