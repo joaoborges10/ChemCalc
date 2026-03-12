@@ -17,7 +17,7 @@ Transformar a lógica complexa da estequiometria em algoritmos eficientes, aplic
 
 ## 💻 Tecnologias Utilizadas
 - **Linguagem:** Python
-- **Ambiente de Desenvolvimento:** VS Code (via GitHub Codespaces / Xbox Series S)
+- **Ambiente de Desenvolvimento:** VS Code (via GitHub Codespaces)
 - **Lógica Matemática:** Álgebra Linear e Regex
 
 ## 📂 Estrutura do Projeto (Em construção)
